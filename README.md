@@ -17,3 +17,20 @@ Missing a major conference? You can easily add it!
 4. Click "Commit changes." The website will update instantly!
 
 *(Alternatively, you can email suggestions to: biomeddeadlines@gmail.com)*
+
+---
+
+## 🎓 Cite This Resource
+
+If you find this tool useful for your research or academic planning, please consider citing it:
+
+**BibTeX Entry:**
+```bibtex
+@misc{biomeddeadlines2026,
+  author = {Your Name or GitHub Username},
+  title = {BiomedDeadlines: A Curated List of Biomedical Conference Abstract Deadlines},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)}}
+}
