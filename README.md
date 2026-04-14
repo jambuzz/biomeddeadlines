@@ -27,7 +27,7 @@ If you find this tool useful for your research or academic planning, please cons
 **BibTeX Entry:**
 ```bibtex
 @misc{biomeddeadlines2026,
-  author = {Your Name or GitHub Username},
+  author = {Xhambazi, K},
   title = {BiomedDeadlines: A Curated List of Biomedical Conference Abstract Deadlines},
   year = {2026},
   publisher = {GitHub},
