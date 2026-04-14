@@ -199,7 +199,7 @@
     "abstractDeadline": "2025-11-30", "conferenceStart": "2026-06-03", "conferenceEnd": "2026-06-06",
     "location": "Milan, Italy", "url": "https://easl.eu/events/"
   },
-  ,{
+  {
     "name": "ISMB 2026", "fullName": "Intelligent Systems for Molecular Biology", "tags": ["bioinfo", "genetics"],
     "audience": ["grad", "early", "biotech"],
     "abstractDeadline": "2026-01-22", "conferenceStart": "2026-07-12", "conferenceEnd": "2026-07-16",
