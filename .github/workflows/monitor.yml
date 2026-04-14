@@ -1,0 +1,29 @@
+name: Monitor Conference Deadlines
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs daily at 8am
+  workflow_dispatch:
+
+jobs:
+  check-websites:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Run Python Robot
+        run: python monitor.py
+        
+      - name: Save Website Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add conferences.json
+          git commit -m "Robot detected website updates" || echo "No changes today"
+          git push
