@@ -16,9 +16,4 @@ Missing a major conference? You can easily add it!
 3. Copy an existing conference block and paste it at the bottom, filling in your new conference's details.
 4. Click "Commit changes." The website will update instantly!
 
-*(Alternatively, you can email suggestions to: YOUR_EMAIL@gmail.com)*
-
-## 📢 Sponsorship
-We have a dedicated sponsorship banner on the site to help keep this tool free for the 1,000+ researchers and students who use it. If your lab, startup, or company wants to reach our audience, please reach out!
-
-**Contact:** YOUR_EMAIL@gmail.com
+*(Alternatively, you can email suggestions to: biomeddeadlines@gmail.com)*
