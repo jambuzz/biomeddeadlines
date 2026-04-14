@@ -182,7 +182,24 @@ function render() {
 
 document.getElementById("searchBar").addEventListener("input", e => { query = e.target.value.toLowerCase(); render(); });
 
-fetch('conferences.json').then(r => r.json()).then(data => { conferences = data; render(); });
+// New robust fetch with Error Catching!
+fetch('conferences.json')
+  .then(response => {
+    if (!response.ok) throw new Error("Network response was not ok");
+    return response.json();
+  })
+  .then(data => { 
+    conferences = data; 
+    render(); 
+  })
+  .catch(error => {
+    document.getElementById("list").innerHTML = `
+      <div style="background: #fde8ea; color: #c1121f; padding: 20px; border-radius: 10px; border: 1px solid #c1121f;">
+        <strong>⚠️ Database Error Detected!</strong><br><br>
+        Your website loaded, but there is a typo or extra comma in your <code>conferences.json</code> file preventing the data from loading. Check your JSON file for missing commas or invisible spaces!
+      </div>`;
+    console.error(error);
+  });
 </script>
 </body>
 </html>
