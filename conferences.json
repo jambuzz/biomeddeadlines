@@ -1,426 +1,1103 @@
 [
   {
-    "name": "RSNA 2026", "fullName": "Radiological Society of North America", "tags": ["imaging", "clinical"],
-    "audience": ["grad", "med", "clinician", "biotech"],
-    "abstractDeadline": "2026-04-22", "conferenceStart": "2026-11-29", "conferenceEnd": "2026-12-04",
-    "location": "Chicago, IL", "url": "https://www.rsna.org/annual-meeting",
+    "name": "RSNA 2026",
+    "fullName": "Radiological Society of North America",
+    "tags": [
+      "imaging",
+      "clinical"
+    ],
+    "audience": [
+      "grad",
+      "med",
+      "clinician",
+      "biotech"
+    ],
+    "abstractDeadline": "2026-04-22",
+    "conferenceStart": "2026-11-29",
+    "conferenceEnd": "2026-12-04",
+    "location": "Chicago, IL",
+    "url": "https://www.rsna.org/annual-meeting",
     "deadlineUrl": "https://www.rsna.org/annual-meeting/abstracts",
     "requirements": "Max 2,000 characters. 1 table or 1 figure allowed. Must be submitted in English."
   },
   {
-    "name": "SfN Neuroscience 2026", "fullName": "Society for Neuroscience Annual Meeting", "tags": ["neuro"],
-    "audience": ["undergrad", "grad", "early"],
-    "abstractDeadline": "2026-05-07", "conferenceStart": "2026-11-14", "conferenceEnd": "2026-11-18",
-    "location": "San Diego, CA", "url": "https://www.sfn.org/meetings/neuroscience-2026",
+    "name": "SfN Neuroscience 2026",
+    "fullName": "Society for Neuroscience Annual Meeting",
+    "tags": [
+      "neuro"
+    ],
+    "audience": [
+      "undergrad",
+      "grad",
+      "early"
+    ],
+    "abstractDeadline": "2026-05-07",
+    "conferenceStart": "2026-11-14",
+    "conferenceEnd": "2026-11-18",
+    "location": "San Diego, CA",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026",
     "deadlineUrl": "https://www.sfn.org/meetings/neuroscience-2026/abstracts",
     "requirements": "Sponsoring member required. $155 submission fee. Max 2,300 characters."
   },
   {
-    "name": "ESMO Congress 2026", "fullName": "European Society for Medical Oncology", "tags": ["cancer", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-05-13", "conferenceStart": "2026-10-16", "conferenceEnd": "2026-10-20",
-    "location": "Berlin, Germany", "url": "https://www.esmo.org/meetings",
+    "name": "ESMO Congress 2026",
+    "fullName": "European Society for Medical Oncology",
+    "tags": [
+      "cancer",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-05-13",
+    "conferenceStart": "2026-10-16",
+    "conferenceEnd": "2026-10-20",
+    "location": "Berlin, Germany",
+    "url": "https://www.esmo.org/meetings",
     "requirements": "Background, Methods, Results, Conclusions format. Max 2,000 characters (excluding spaces)."
   },
   {
-    "name": "DDW 2026", "fullName": "Digestive Disease Week", "tags": ["clinical"],
-    "audience": ["med", "clinician"],
-    "abstractDeadline": "2025-12-01", "conferenceStart": "2026-05-02", "conferenceEnd": "2026-05-05",
-    "location": "Chicago, IL", "url": "https://ddw.org/",
+    "name": "DDW 2026",
+    "fullName": "Digestive Disease Week",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician"
+    ],
+    "abstractDeadline": "2025-12-01",
+    "conferenceStart": "2026-05-02",
+    "conferenceEnd": "2026-05-05",
+    "location": "Chicago, IL",
+    "url": "https://ddw.org/",
     "requirements": "Submission fee required ($80). Maximum of 2,900 characters."
   },
   {
-    "name": "EULAR 2026", "fullName": "European Alliance of Associations for Rheumatology", "tags": ["clinical", "immuno"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-01-15", "conferenceStart": "2026-06-03", "conferenceEnd": "2026-06-06",
-    "location": "London, UK", "url": "https://congress.eular.org/",
+    "name": "EULAR 2026",
+    "fullName": "European Alliance of Associations for Rheumatology",
+    "tags": [
+      "clinical",
+      "immuno"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-01-15",
+    "conferenceStart": "2026-06-03",
+    "conferenceEnd": "2026-06-06",
+    "location": "London, UK",
+    "url": "https://congress.eular.org/",
     "requirements": "Must not have been previously published. Max 3,600 characters."
   },
   {
-    "name": "BIO International 2026", "fullName": "BIO International Convention", "tags": ["biomedeng"],
-    "audience": ["undergrad", "grad", "biotech", "investor"],
-    "abstractDeadline": "2026-02-01", "conferenceStart": "2026-06-22", "conferenceEnd": "2026-06-25",
-    "location": "San Diego, CA", "url": "https://convention.bio.org/",
+    "name": "BIO International 2026",
+    "fullName": "BIO International Convention",
+    "tags": [
+      "biomedeng"
+    ],
+    "audience": [
+      "undergrad",
+      "grad",
+      "biotech",
+      "investor"
+    ],
+    "abstractDeadline": "2026-02-01",
+    "conferenceStart": "2026-06-22",
+    "conferenceEnd": "2026-06-25",
+    "location": "San Diego, CA",
+    "url": "https://convention.bio.org/",
     "requirements": "Industry/startup focus. Requires a 500-word executive summary."
   },
   {
-    "name": "AUA 2026", "fullName": "American Urological Association Annual Meeting", "tags": ["clinical", "surgery"],
-    "audience": ["med", "clinician"],
-    "abstractDeadline": "2025-11-01", "conferenceStart": "2026-05-15", "conferenceEnd": "2026-05-18",
-    "location": "Washington, DC", "url": "https://www.auanet.org/",
+    "name": "AUA 2026",
+    "fullName": "American Urological Association Annual Meeting",
+    "tags": [
+      "clinical",
+      "surgery"
+    ],
+    "audience": [
+      "med",
+      "clinician"
+    ],
+    "abstractDeadline": "2025-11-01",
+    "conferenceStart": "2026-05-15",
+    "conferenceEnd": "2026-05-18",
+    "location": "Washington, DC",
+    "url": "https://www.auanet.org/",
     "requirements": "2,280 character limit including spaces. 1 graphic allowed."
   },
   {
-    "name": "AACR Annual Meeting 2026", "fullName": "American Association for Cancer Research", "tags": ["cancer"],
-    "audience": ["grad", "early", "med", "clinician"],
-    "abstractDeadline": "2025-11-15", "conferenceStart": "2026-04-17", "conferenceEnd": "2026-04-22",
-    "location": "San Diego, CA", "url": "https://www.aacr.org/meetings/",
+    "name": "AACR Annual Meeting 2026",
+    "fullName": "American Association for Cancer Research",
+    "tags": [
+      "cancer"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "med",
+      "clinician"
+    ],
+    "abstractDeadline": "2025-11-15",
+    "conferenceStart": "2026-04-17",
+    "conferenceEnd": "2026-04-22",
+    "location": "San Diego, CA",
+    "url": "https://www.aacr.org/meetings/",
     "requirements": "Must be sponsored by an AACR member. 2,600 character limit."
   },
   {
-    "name": "ASCO 2026", "fullName": "American Society of Clinical Oncology Annual Meeting", "tags": ["cancer", "clinical"],
-    "audience": ["med", "clinician", "pharma"],
-    "abstractDeadline": "2026-01-27", "conferenceStart": "2026-05-29", "conferenceEnd": "2026-06-02",
-    "location": "Chicago, IL", "url": "https://conferences.asco.org/am/attend",
+    "name": "ASCO 2026",
+    "fullName": "American Society of Clinical Oncology Annual Meeting",
+    "tags": [
+      "cancer",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "pharma"
+    ],
+    "abstractDeadline": "2026-01-27",
+    "conferenceStart": "2026-05-29",
+    "conferenceEnd": "2026-06-02",
+    "location": "Chicago, IL",
+    "url": "https://conferences.asco.org/am/attend",
     "deadlineUrl": "https://www.asco.org/annual-meeting/abstracts-presentations/submission-details",
     "requirements": "First author must be a member or sponsored. Late-breaking deadline: March 9."
   },
   {
-    "name": "ASH 2026", "fullName": "American Society of Hematology", "tags": ["hematology", "cancer"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-08-01", "conferenceStart": "2026-12-05", "conferenceEnd": "2026-12-08",
-    "location": "Orlando, FL", "url": "https://www.hematology.org/meetings/annual-meeting",
+    "name": "ASH 2026",
+    "fullName": "American Society of Hematology",
+    "tags": [
+      "hematology",
+      "cancer"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-08-01",
+    "conferenceStart": "2026-12-05",
+    "conferenceEnd": "2026-12-08",
+    "location": "Orlando, FL",
+    "url": "https://www.hematology.org/meetings/annual-meeting",
     "requirements": "$85 submission fee. Max 3,800 characters (includes spaces)."
   },
   {
-    "name": "AHA Scientific Sessions 2026", "fullName": "American Heart Association", "tags": ["cardio", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-06-15", "conferenceStart": "2026-11-14", "conferenceEnd": "2026-11-16",
-    "location": "Chicago, IL", "url": "https://professional.heart.org/en/meetings",
+    "name": "AHA Scientific Sessions 2026",
+    "fullName": "American Heart Association",
+    "tags": [
+      "cardio",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-06-15",
+    "conferenceStart": "2026-11-14",
+    "conferenceEnd": "2026-11-16",
+    "location": "Chicago, IL",
+    "url": "https://professional.heart.org/en/meetings",
     "requirements": "Max 1,950 characters (spaces do not count). 1 image allowed."
   },
   {
-    "name": "ACC.26", "fullName": "American College of Cardiology", "tags": ["cardio", "clinical"],
-    "audience": ["med", "clinician"],
-    "abstractDeadline": "2025-10-15", "conferenceStart": "2026-03-14", "conferenceEnd": "2026-03-16",
-    "location": "San Diego, CA", "url": "https://accscientificsession.acc.org/",
+    "name": "ACC.26",
+    "fullName": "American College of Cardiology",
+    "tags": [
+      "cardio",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician"
+    ],
+    "abstractDeadline": "2025-10-15",
+    "conferenceStart": "2026-03-14",
+    "conferenceEnd": "2026-03-16",
+    "location": "San Diego, CA",
+    "url": "https://accscientificsession.acc.org/",
     "requirements": "Abstracts must be structured (Background, Methods, Results, Conclusion)."
   },
   {
-    "name": "ESC Congress 2026", "fullName": "European Society of Cardiology", "tags": ["cardio", "clinical"],
-    "audience": ["med", "clinician"],
-    "abstractDeadline": "2026-03-01", "conferenceStart": "2026-08-28", "conferenceEnd": "2026-08-31",
-    "location": "Paris, France", "url": "https://www.escardio.org/Congresses-&-Events/ESC-Congress",
+    "name": "ESC Congress 2026",
+    "fullName": "European Society of Cardiology",
+    "tags": [
+      "cardio",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician"
+    ],
+    "abstractDeadline": "2026-03-01",
+    "conferenceStart": "2026-08-28",
+    "conferenceEnd": "2026-08-31",
+    "location": "Paris, France",
+    "url": "https://www.escardio.org/Congresses-&-Events/ESC-Congress",
     "requirements": "No fee for submission. Max 3,000 characters."
   },
   {
-    "name": "AAN 2026", "fullName": "American Academy of Neurology", "tags": ["neuro", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2025-10-20", "conferenceStart": "2026-04-11", "conferenceEnd": "2026-04-16",
-    "location": "Boston, MA", "url": "https://www.aan.com/events/annual-meeting",
+    "name": "AAN 2026",
+    "fullName": "American Academy of Neurology",
+    "tags": [
+      "neuro",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-10-20",
+    "conferenceStart": "2026-04-11",
+    "conferenceEnd": "2026-04-16",
+    "location": "Boston, MA",
+    "url": "https://www.aan.com/events/annual-meeting",
     "requirements": "Max 250 words. Only 1 data table allowed."
   },
   {
-    "name": "IDWeek 2026", "fullName": "Infectious Diseases Society of America", "tags": ["id", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-05-01", "conferenceStart": "2026-10-21", "conferenceEnd": "2026-10-25",
-    "location": "Atlanta, GA", "url": "https://idweek.org/",
+    "name": "IDWeek 2026",
+    "fullName": "Infectious Diseases Society of America",
+    "tags": [
+      "id",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-05-01",
+    "conferenceStart": "2026-10-21",
+    "conferenceEnd": "2026-10-25",
+    "location": "Atlanta, GA",
+    "url": "https://idweek.org/",
     "requirements": "Max 1,950 characters. References are not included in the limit."
   },
   {
-    "name": "ECCMID 2026 (ESCMID Global)", "fullName": "European Society of Clinical Microbiology and Infectious Diseases", "tags": ["id", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2025-11-20", "conferenceStart": "2026-04-17", "conferenceEnd": "2026-04-21",
-    "location": "Madrid, Spain", "url": "https://www.escmid.org/",
+    "name": "ECCMID 2026 (ESCMID Global)",
+    "fullName": "European Society of Clinical Microbiology and Infectious Diseases",
+    "tags": [
+      "id",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-11-20",
+    "conferenceStart": "2026-04-17",
+    "conferenceEnd": "2026-04-21",
+    "location": "Madrid, Spain",
+    "url": "https://www.escmid.org/",
     "requirements": "Abstract must not be previously published. 250 word limit."
   },
   {
-    "name": "CROI 2026", "fullName": "Conference on Retroviruses and Opportunistic Infections", "tags": ["id"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2025-09-25", "conferenceStart": "2026-03-01", "conferenceEnd": "2026-03-04",
-    "location": "Denver, CO", "url": "https://www.croiconference.org/",
+    "name": "CROI 2026",
+    "fullName": "Conference on Retroviruses and Opportunistic Infections",
+    "tags": [
+      "id"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-09-25",
+    "conferenceStart": "2026-03-01",
+    "conferenceEnd": "2026-03-04",
+    "location": "Denver, CO",
+    "url": "https://www.croiconference.org/",
     "requirements": "Max 2,500 characters. No tables or figures allowed in initial abstract submission."
   },
   {
-    "name": "ENDO 2026", "fullName": "Endocrine Society Annual Meeting", "tags": ["endo", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-01-22", "conferenceStart": "2026-06-11", "conferenceEnd": "2026-06-14",
-    "location": "San Francisco, CA", "url": "https://www.endocrine.org/meetings-and-events/endo",
+    "name": "ENDO 2026",
+    "fullName": "Endocrine Society Annual Meeting",
+    "tags": [
+      "endo",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-01-22",
+    "conferenceStart": "2026-06-11",
+    "conferenceEnd": "2026-06-14",
+    "location": "San Francisco, CA",
+    "url": "https://www.endocrine.org/meetings-and-events/endo",
     "requirements": "Limit 2,500 characters. Sponsoring member NOT required."
   },
   {
-    "name": "ADA 2026", "fullName": "American Diabetes Association Scientific Sessions", "tags": ["endo", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-01-10", "conferenceStart": "2026-06-19", "conferenceEnd": "2026-06-22",
-    "location": "San Antonio, TX", "url": "https://professional.diabetes.org/scientific-sessions",
+    "name": "ADA 2026",
+    "fullName": "American Diabetes Association Scientific Sessions",
+    "tags": [
+      "endo",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-01-10",
+    "conferenceStart": "2026-06-19",
+    "conferenceEnd": "2026-06-22",
+    "location": "San Antonio, TX",
+    "url": "https://professional.diabetes.org/scientific-sessions",
     "requirements": "Strict 250 word limit. Tables and figures are strictly prohibited in abstracts."
   },
   {
-    "name": "EASD 2026", "fullName": "European Association for the Study of Diabetes", "tags": ["endo", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-04-01", "conferenceStart": "2026-09-15", "conferenceEnd": "2026-09-18",
-    "location": "Vienna, Austria", "url": "https://www.easd.org/",
+    "name": "EASD 2026",
+    "fullName": "European Association for the Study of Diabetes",
+    "tags": [
+      "endo",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-04-01",
+    "conferenceStart": "2026-09-15",
+    "conferenceEnd": "2026-09-18",
+    "location": "Vienna, Austria",
+    "url": "https://www.easd.org/",
     "requirements": "Max 3,200 characters including spaces. One table or figure permitted."
   },
   {
-    "name": "ATS 2026", "fullName": "American Thoracic Society International Conference", "tags": ["pulm", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2025-11-05", "conferenceStart": "2026-05-15", "conferenceEnd": "2026-05-20",
-    "location": "San Diego, CA", "url": "https://conference.thoracic.org/",
+    "name": "ATS 2026",
+    "fullName": "American Thoracic Society International Conference",
+    "tags": [
+      "pulm",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-11-05",
+    "conferenceStart": "2026-05-15",
+    "conferenceEnd": "2026-05-20",
+    "location": "San Diego, CA",
+    "url": "https://conference.thoracic.org/",
     "deadlineUrl": "https://site.thoracic.org/events/ats-2026-scientific-abstracts-case-reports-deadline",
     "requirements": "$80 fee. Late-breaking deadline: January 28, 2026."
   },
   {
-    "name": "CHEST 2026", "fullName": "American College of Chest Physicians", "tags": ["pulm", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-03-15", "conferenceStart": "2026-10-17", "conferenceEnd": "2026-10-21",
-    "location": "Montreal, Canada", "url": "https://www.chestnet.org/Education/CHEST-Meetings/CHEST-Annual-Meeting",
+    "name": "CHEST 2026",
+    "fullName": "American College of Chest Physicians",
+    "tags": [
+      "pulm",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-03-15",
+    "conferenceStart": "2026-10-17",
+    "conferenceEnd": "2026-10-21",
+    "location": "Montreal, Canada",
+    "url": "https://www.chestnet.org/Education/CHEST-Meetings/CHEST-Annual-Meeting",
     "requirements": "Max 250 words. Must use: INTRODUCTION, METHODS, RESULTS, CONCLUSIONS."
   },
   {
-    "name": "ACR Convergence 2026", "fullName": "American College of Rheumatology", "tags": ["clinical", "immuno"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-06-05", "conferenceStart": "2026-11-13", "conferenceEnd": "2026-11-18",
-    "location": "Washington, DC", "url": "https://rheumatology.org/annual-meeting",
+    "name": "ACR Convergence 2026",
+    "fullName": "American College of Rheumatology",
+    "tags": [
+      "clinical",
+      "immuno"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-06-05",
+    "conferenceStart": "2026-11-13",
+    "conferenceEnd": "2026-11-18",
+    "location": "Washington, DC",
+    "url": "https://rheumatology.org/annual-meeting",
     "requirements": "Max 2,750 characters (excluding spaces). 2 graphics allowed."
   },
   {
-    "name": "ASN Kidney Week 2026", "fullName": "American Society of Nephrology", "tags": ["clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-05-25", "conferenceStart": "2026-11-04", "conferenceEnd": "2026-11-08",
-    "location": "Los Angeles, CA", "url": "https://www.asn-online.org/education/kidneyweek/",
+    "name": "ASN Kidney Week 2026",
+    "fullName": "American Society of Nephrology",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-05-25",
+    "conferenceStart": "2026-11-04",
+    "conferenceEnd": "2026-11-08",
+    "location": "Los Angeles, CA",
+    "url": "https://www.asn-online.org/education/kidneyweek/",
     "requirements": "Max 2,500 characters. Sponsoring member required if first author is not a member."
   },
   {
-    "name": "AAI IMMUNOLOGY 2026", "fullName": "American Association of Immunologists", "tags": ["immuno"],
-    "audience": ["grad", "early"],
-    "abstractDeadline": "2025-12-05", "conferenceStart": "2026-05-01", "conferenceEnd": "2026-05-05",
-    "location": "Chicago, IL", "url": "https://www.aai.org/Meetings/Annual-Meeting",
+    "name": "AAI IMMUNOLOGY 2026",
+    "fullName": "American Association of Immunologists",
+    "tags": [
+      "immuno"
+    ],
+    "audience": [
+      "grad",
+      "early"
+    ],
+    "abstractDeadline": "2025-12-05",
+    "conferenceStart": "2026-05-01",
+    "conferenceEnd": "2026-05-05",
+    "location": "Chicago, IL",
+    "url": "https://www.aai.org/Meetings/Annual-Meeting",
     "requirements": "Max 1,500 characters. Member submission fee is lower than non-member."
   },
   {
-    "name": "SITC 2026", "fullName": "Society for Immunotherapy of Cancer", "tags": ["immuno", "cancer"],
-    "audience": ["grad", "early", "clinician"],
-    "abstractDeadline": "2026-01-15", "conferenceStart": "2026-04-10", "conferenceEnd": "2026-04-14",
-    "location": "TBD", "url": "https://sitcancer.confex.com/sitcancer/ss26/cfp.cgi",
+    "name": "SITC 2026",
+    "fullName": "Society for Immunotherapy of Cancer",
+    "tags": [
+      "immuno",
+      "cancer"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "clinician"
+    ],
+    "abstractDeadline": "2026-01-15",
+    "conferenceStart": "2026-04-10",
+    "conferenceEnd": "2026-04-14",
+    "location": "TBD",
+    "url": "https://sitcancer.confex.com/sitcancer/ss26/cfp.cgi",
     "requirements": "SITC membership highly encouraged. Trial in progress abstracts accepted."
   },
   {
-    "name": "ASHG 2026", "fullName": "American Society of Human Genetics", "tags": ["cellbio", "clinical", "genetics"],
-    "audience": ["grad", "early", "clinician"],
-    "abstractDeadline": "2026-06-08", "conferenceStart": "2026-10-20", "conferenceEnd": "2026-10-24",
-    "location": "Los Angeles, CA", "url": "https://www.ashg.org/meetings/",
+    "name": "ASHG 2026",
+    "fullName": "American Society of Human Genetics",
+    "tags": [
+      "cellbio",
+      "clinical",
+      "genetics"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "clinician"
+    ],
+    "abstractDeadline": "2026-06-08",
+    "conferenceStart": "2026-10-20",
+    "conferenceEnd": "2026-10-24",
+    "location": "Los Angeles, CA",
+    "url": "https://www.ashg.org/meetings/",
     "requirements": "Max 2,500 characters. $50 submission fee. No tables/figures allowed."
   },
   {
-    "name": "ASCB | EMBO 2026", "fullName": "American Society for Cell Biology", "tags": ["cellbio"],
-    "audience": ["undergrad", "grad", "early"],
-    "abstractDeadline": "2026-08-15", "conferenceStart": "2026-12-05", "conferenceEnd": "2026-12-09",
-    "location": "San Diego, CA", "url": "https://www.ascb.org/meetings-events/",
+    "name": "ASCB | EMBO 2026",
+    "fullName": "American Society for Cell Biology",
+    "tags": [
+      "cellbio"
+    ],
+    "audience": [
+      "undergrad",
+      "grad",
+      "early"
+    ],
+    "abstractDeadline": "2026-08-15",
+    "conferenceStart": "2026-12-05",
+    "conferenceEnd": "2026-12-09",
+    "location": "San Diego, CA",
+    "url": "https://www.ascb.org/meetings-events/",
     "requirements": "Max 3,000 characters. No tables or figures in abstract text."
   },
   {
-    "name": "BPS 2026", "fullName": "Biophysical Society Annual Meeting", "tags": ["biophysics"],
-    "audience": ["undergrad", "grad", "early"],
-    "abstractDeadline": "2025-10-01", "conferenceStart": "2026-02-21", "conferenceEnd": "2026-02-25",
-    "location": "Los Angeles, CA", "url": "https://www.biophysics.org/meetings-events/annual-meeting",
+    "name": "BPS 2026",
+    "fullName": "Biophysical Society Annual Meeting",
+    "tags": [
+      "biophysics"
+    ],
+    "audience": [
+      "undergrad",
+      "grad",
+      "early"
+    ],
+    "abstractDeadline": "2025-10-01",
+    "conferenceStart": "2026-02-21",
+    "conferenceEnd": "2026-02-25",
+    "location": "Los Angeles, CA",
+    "url": "https://www.biophysics.org/meetings-events/annual-meeting",
     "requirements": "Max 3,000 characters (including spaces). First author must present."
   },
   {
-    "name": "BMES 2026", "fullName": "Biomedical Engineering Society", "tags": ["biomedeng"],
-    "audience": ["undergrad", "grad", "early", "biotech"],
-    "abstractDeadline": "2026-05-20", "conferenceStart": "2026-10-07", "conferenceEnd": "2026-10-10",
-    "location": "Baltimore, MD", "url": "https://www.bmes.org/annualmeeting",
+    "name": "BMES 2026",
+    "fullName": "Biomedical Engineering Society",
+    "tags": [
+      "biomedeng"
+    ],
+    "audience": [
+      "undergrad",
+      "grad",
+      "early",
+      "biotech"
+    ],
+    "abstractDeadline": "2026-05-20",
+    "conferenceStart": "2026-10-07",
+    "conferenceEnd": "2026-10-10",
+    "location": "Baltimore, MD",
+    "url": "https://www.bmes.org/annualmeeting",
     "requirements": "1 page maximum. Must include Introduction, Materials/Methods, Results/Discussion, Conclusion."
   },
   {
-    "name": "IEEE EMBC 2026", "fullName": "IEEE Engineering in Medicine and Biology", "tags": ["biomedeng"],
-    "audience": ["grad", "early", "biotech"],
-    "abstractDeadline": "2026-01-31", "conferenceStart": "2026-07-20", "conferenceEnd": "2026-07-24",
-    "location": "Orlando, FL", "url": "https://embc.embs.org/",
+    "name": "IEEE EMBC 2026",
+    "fullName": "IEEE Engineering in Medicine and Biology",
+    "tags": [
+      "biomedeng"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "biotech"
+    ],
+    "abstractDeadline": "2026-01-31",
+    "conferenceStart": "2026-07-20",
+    "conferenceEnd": "2026-07-24",
+    "location": "Orlando, FL",
+    "url": "https://embc.embs.org/",
     "requirements": "1-page research highlights or 4-page full contributed papers accepted."
   },
   {
-    "name": "SLAS 2026", "fullName": "Society for Laboratory Automation and Screening", "tags": ["biomedeng", "cellbio"],
-    "audience": ["grad", "early", "biotech"],
-    "abstractDeadline": "2025-09-15", "conferenceStart": "2026-02-28", "conferenceEnd": "2026-03-04",
-    "location": "Boston, MA", "url": "https://www.slas.org/events-education/events/",
+    "name": "SLAS 2026",
+    "fullName": "Society for Laboratory Automation and Screening",
+    "tags": [
+      "biomedeng",
+      "cellbio"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "biotech"
+    ],
+    "abstractDeadline": "2025-09-15",
+    "conferenceStart": "2026-02-28",
+    "conferenceEnd": "2026-03-04",
+    "location": "Boston, MA",
+    "url": "https://www.slas.org/events-education/events/",
     "requirements": "Must align with track topics. Commercial/promotional abstracts will be rejected."
   },
   {
-    "name": "SynBioBeta 2026", "fullName": "The Global Synthetic Biology Conference", "tags": ["biomedeng", "cellbio"],
-    "audience": ["grad", "early", "biotech", "investor"],
-    "abstractDeadline": "2026-02-15", "conferenceStart": "2026-05-04", "conferenceEnd": "2026-05-07",
-    "location": "San Jose, CA", "url": "https://www.synbiobeta.com/",
+    "name": "SynBioBeta 2026",
+    "fullName": "The Global Synthetic Biology Conference",
+    "tags": [
+      "biomedeng",
+      "cellbio"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "biotech",
+      "investor"
+    ],
+    "abstractDeadline": "2026-02-15",
+    "conferenceStart": "2026-05-04",
+    "conferenceEnd": "2026-05-07",
+    "location": "San Jose, CA",
+    "url": "https://www.synbiobeta.com/",
     "requirements": "Poster pitches available. Focus should be on translational synbio/biotech."
   },
   {
-    "name": "ASTRO 2026", "fullName": "American Society for Radiation Oncology", "tags": ["radonc", "cancer", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-02-25", "conferenceStart": "2026-10-25", "conferenceEnd": "2026-10-28",
-    "location": "San Antonio, TX", "url": "https://www.astro.org/Meetings-and-Education/Micro-Sites/2026/Annual-Meeting",
+    "name": "ASTRO 2026",
+    "fullName": "American Society for Radiation Oncology",
+    "tags": [
+      "radonc",
+      "cancer",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-02-25",
+    "conferenceStart": "2026-10-25",
+    "conferenceEnd": "2026-10-28",
+    "location": "San Antonio, TX",
+    "url": "https://www.astro.org/Meetings-and-Education/Micro-Sites/2026/Annual-Meeting",
     "requirements": "Max 3,000 characters. Presenting author must register for the meeting."
   },
   {
-    "name": "AAO-HNSF 2026", "fullName": "American Academy of Otolaryngology", "tags": ["ent", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-01-20", "conferenceStart": "2026-09-13", "conferenceEnd": "2026-09-16",
-    "location": "Chicago, IL", "url": "https://www.entannualmeeting.org/",
+    "name": "AAO-HNSF 2026",
+    "fullName": "American Academy of Otolaryngology",
+    "tags": [
+      "ent",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-01-20",
+    "conferenceStart": "2026-09-13",
+    "conferenceEnd": "2026-09-16",
+    "location": "Chicago, IL",
+    "url": "https://www.entannualmeeting.org/",
     "requirements": "Max 600 words. Must disclose all financial conflicts of interest."
   },
   {
-    "name": "ECR 2026", "fullName": "European Congress of Radiology", "tags": ["imaging", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2025-10-10", "conferenceStart": "2026-02-25", "conferenceEnd": "2026-03-01",
-    "location": "Vienna, Austria", "url": "https://www.myesr.org/congress",
+    "name": "ECR 2026",
+    "fullName": "European Congress of Radiology",
+    "tags": [
+      "imaging",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-10-10",
+    "conferenceStart": "2026-02-25",
+    "conferenceEnd": "2026-03-01",
+    "location": "Vienna, Austria",
+    "url": "https://www.myesr.org/congress",
     "requirements": "Max 250 words. Separate tracks for scientific papers and educational exhibits."
   },
   {
-    "name": "ISMRM 2026", "fullName": "International Society for Magnetic Resonance in Medicine", "tags": ["imaging", "biophysics"],
-    "audience": ["grad", "early", "clinician"],
-    "abstractDeadline": "2025-11-05", "conferenceStart": "2026-05-09", "conferenceEnd": "2026-05-14",
-    "location": "Honolulu, HI", "url": "https://www.ismrm.org/meetings-exhibitions/",
+    "name": "ISMRM 2026",
+    "fullName": "International Society for Magnetic Resonance in Medicine",
+    "tags": [
+      "imaging",
+      "biophysics"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "clinician"
+    ],
+    "abstractDeadline": "2025-11-05",
+    "conferenceStart": "2026-05-09",
+    "conferenceEnd": "2026-05-14",
+    "location": "Honolulu, HI",
+    "url": "https://www.ismrm.org/meetings-exhibitions/",
     "requirements": "Max 850 words. Strict formatting templates must be used."
   },
   {
-    "name": "SNMMI 2026", "fullName": "Society of Nuclear Medicine and Molecular Imaging", "tags": ["imaging", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-01-10", "conferenceStart": "2026-06-13", "conferenceEnd": "2026-06-16",
-    "location": "Washington, DC", "url": "https://am.snmmi.org/",
+    "name": "SNMMI 2026",
+    "fullName": "Society of Nuclear Medicine and Molecular Imaging",
+    "tags": [
+      "imaging",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-01-10",
+    "conferenceStart": "2026-06-13",
+    "conferenceEnd": "2026-06-16",
+    "location": "Washington, DC",
+    "url": "https://am.snmmi.org/",
     "requirements": "Max 2,000 characters. Up to 2 figures/images permitted."
   },
   {
-    "name": "AASLD 2026", "fullName": "American Association for the Study of Liver Diseases", "tags": ["clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-05-20", "conferenceStart": "2026-11-06", "conferenceEnd": "2026-11-10",
-    "location": "San Francisco, CA", "url": "https://www.aasld.org/the-liver-meeting",
+    "name": "AASLD 2026",
+    "fullName": "American Association for the Study of Liver Diseases",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-05-20",
+    "conferenceStart": "2026-11-06",
+    "conferenceEnd": "2026-11-10",
+    "location": "San Francisco, CA",
+    "url": "https://www.aasld.org/the-liver-meeting",
     "requirements": "Max 2,500 characters. Submission fee $70."
   },
   {
-    "name": "EASL 2026", "fullName": "European Association for the Study of the Liver", "tags": ["clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2025-11-30", "conferenceStart": "2026-06-03", "conferenceEnd": "2026-06-06",
-    "location": "Milan, Italy", "url": "https://easl.eu/events/",
+    "name": "EASL 2026",
+    "fullName": "European Association for the Study of the Liver",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-11-30",
+    "conferenceStart": "2026-06-03",
+    "conferenceEnd": "2026-06-06",
+    "location": "Milan, Italy",
+    "url": "https://easl.eu/events/",
     "requirements": "Max 350 words. One figure or table allowed."
   },
   {
-    "name": "ISMB 2026", "fullName": "Intelligent Systems for Molecular Biology", "tags": ["bioinfo", "genetics"],
-    "audience": ["grad", "early", "biotech"],
-    "abstractDeadline": "2026-01-22", "conferenceStart": "2026-07-12", "conferenceEnd": "2026-07-16",
-    "location": "Montreal, Canada", "url": "https://www.iscb.org/",
+    "name": "ISMB 2026",
+    "fullName": "Intelligent Systems for Molecular Biology",
+    "tags": [
+      "bioinfo",
+      "genetics"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "biotech"
+    ],
+    "abstractDeadline": "2026-01-22",
+    "conferenceStart": "2026-07-12",
+    "conferenceEnd": "2026-07-16",
+    "location": "Montreal, Canada",
+    "url": "https://www.iscb.org/",
     "requirements": "Focuses on computational biology. Proceeding and poster tracks available."
   },
   {
-    "name": "ACMG 2026", "fullName": "American College of Medical Genetics and Genomics", "tags": ["genetics", "clinical"],
-    "audience": ["med", "clinician", "grad"],
-    "abstractDeadline": "2025-11-15", "conferenceStart": "2026-03-17", "conferenceEnd": "2026-03-21",
-    "location": "Las Vegas, NV", "url": "https://www.acmg.net/",
+    "name": "ACMG 2026",
+    "fullName": "American College of Medical Genetics and Genomics",
+    "tags": [
+      "genetics",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "grad"
+    ],
+    "abstractDeadline": "2025-11-15",
+    "conferenceStart": "2026-03-17",
+    "conferenceEnd": "2026-03-21",
+    "location": "Las Vegas, NV",
+    "url": "https://www.acmg.net/",
     "requirements": "Max 300 words. No charts, tables, or graphs allowed."
   },
   {
-    "name": "AAP 2026", "fullName": "American Academy of Pediatrics National Conference", "tags": ["peds", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-04-10", "conferenceStart": "2026-10-02", "conferenceEnd": "2026-10-06",
-    "location": "TBD", "url": "https://aapexperience.org/abstracts/",
+    "name": "AAP 2026",
+    "fullName": "American Academy of Pediatrics National Conference",
+    "tags": [
+      "peds",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-04-10",
+    "conferenceStart": "2026-10-02",
+    "conferenceEnd": "2026-10-06",
+    "location": "TBD",
+    "url": "https://aapexperience.org/abstracts/",
     "requirements": "Limited to 450 words. Up to 2 images/tables allowed."
   },
   {
-    "name": "ACS Clinical Congress 2026", "fullName": "American College of Surgeons", "tags": ["surgery", "clinical"],
-    "audience": ["med", "clinician"],
-    "abstractDeadline": "2026-03-01", "conferenceStart": "2026-10-18", "conferenceEnd": "2026-10-22",
-    "location": "Boston, MA", "url": "https://www.facs.org/for-medical-professionals/education/clinical-congress/",
+    "name": "ACS Clinical Congress 2026",
+    "fullName": "American College of Surgeons",
+    "tags": [
+      "surgery",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician"
+    ],
+    "abstractDeadline": "2026-03-01",
+    "conferenceStart": "2026-10-18",
+    "conferenceEnd": "2026-10-22",
+    "location": "Boston, MA",
+    "url": "https://www.facs.org/for-medical-professionals/education/clinical-congress/",
     "requirements": "Max 250 words. Case reports generally not accepted."
   },
   {
-    "name": "CUGH 2026", "fullName": "Consortium of Universities for Global Health", "tags": ["global", "id"],
-    "audience": ["undergrad", "grad", "med"],
-    "abstractDeadline": "2025-09-30", "conferenceStart": "2026-02-19", "conferenceEnd": "2026-02-22",
-    "location": "Washington, DC", "url": "https://www.cugh.org/",
+    "name": "CUGH 2026",
+    "fullName": "Consortium of Universities for Global Health",
+    "tags": [
+      "global",
+      "id"
+    ],
+    "audience": [
+      "undergrad",
+      "grad",
+      "med"
+    ],
+    "abstractDeadline": "2025-09-30",
+    "conferenceStart": "2026-02-19",
+    "conferenceEnd": "2026-02-22",
+    "location": "Washington, DC",
+    "url": "https://www.cugh.org/",
     "requirements": "Max 250 words. Background, Methods, Findings, Interpretation required."
   },
   {
-    "name": "HIMSS 2026", "fullName": "Healthcare Information and Management Systems Society", "tags": ["bioinfo", "global"],
-    "audience": ["biotech", "clinician", "investor"],
-    "abstractDeadline": "2025-08-15", "conferenceStart": "2026-03-09", "conferenceEnd": "2026-03-13",
-    "location": "Las Vegas, NV", "url": "https://www.himss.org/global-conference",
+    "name": "HIMSS 2026",
+    "fullName": "Healthcare Information and Management Systems Society",
+    "tags": [
+      "bioinfo",
+      "global"
+    ],
+    "audience": [
+      "biotech",
+      "clinician",
+      "investor"
+    ],
+    "abstractDeadline": "2025-08-15",
+    "conferenceStart": "2026-03-09",
+    "conferenceEnd": "2026-03-13",
+    "location": "Las Vegas, NV",
+    "url": "https://www.himss.org/global-conference",
     "requirements": "Proposals must demonstrate applied tech solutions, not conceptual ideas."
   },
   {
-    "name": "ONS Congress 2026", "fullName": "Oncology Nursing Society", "tags": ["cancer", "clinical"],
-    "audience": ["nurse"],
-    "abstractDeadline": "2025-08-01", "conferenceStart": "2026-04-29", "conferenceEnd": "2026-05-03",
-    "location": "Orlando, FL", "url": "https://www.ons.org/congress",
+    "name": "ONS Congress 2026",
+    "fullName": "Oncology Nursing Society",
+    "tags": [
+      "cancer",
+      "clinical"
+    ],
+    "audience": [
+      "nurse"
+    ],
+    "abstractDeadline": "2025-08-01",
+    "conferenceStart": "2026-04-29",
+    "conferenceEnd": "2026-05-03",
+    "location": "Orlando, FL",
+    "url": "https://www.ons.org/congress",
     "requirements": "Max 300 words. Non-research/evidence-based practice tracks available."
   },
   {
-    "name": "AST 2026", "fullName": "American Society of Transplantation", "tags": ["surgery", "immuno"],
-    "audience": ["clinician", "med"],
-    "abstractDeadline": "2025-12-01", "conferenceStart": "2026-05-30", "conferenceEnd": "2026-06-03",
-    "location": "San Diego, CA", "url": "https://www.myast.org/",
+    "name": "AST 2026",
+    "fullName": "American Society of Transplantation",
+    "tags": [
+      "surgery",
+      "immuno"
+    ],
+    "audience": [
+      "clinician",
+      "med"
+    ],
+    "abstractDeadline": "2025-12-01",
+    "conferenceStart": "2026-05-30",
+    "conferenceEnd": "2026-06-03",
+    "location": "San Diego, CA",
+    "url": "https://www.myast.org/",
     "requirements": "Max 2,500 characters. ATC joint meeting guidelines apply."
   },
   {
-    "name": "APA 2026", "fullName": "American Psychiatric Association Annual Meeting", "tags": ["psych", "clinical"],
-    "audience": ["med", "clinician", "grad"],
-    "abstractDeadline": "2025-09-10", "conferenceStart": "2026-05-16", "conferenceEnd": "2026-05-20",
-    "location": "New York, NY", "url": "https://www.psychiatry.org/",
+    "name": "APA 2026",
+    "fullName": "American Psychiatric Association Annual Meeting",
+    "tags": [
+      "psych",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "grad"
+    ],
+    "abstractDeadline": "2025-09-10",
+    "conferenceStart": "2026-05-16",
+    "conferenceEnd": "2026-05-20",
+    "location": "New York, NY",
+    "url": "https://www.psychiatry.org/",
     "deadlineUrl": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/abstract-submissions",
     "requirements": "Max 300 words. Must use standardized APA template."
   },
   {
-    "name": "AAD 2026", "fullName": "American Academy of Dermatology Annual Meeting", "tags": ["derm", "clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2025-08-15", "conferenceStart": "2026-03-27", "conferenceEnd": "2026-03-31",
-    "location": "Denver, CO", "url": "https://www.aad.org/member/meetings-education",
+    "name": "AAD 2026",
+    "fullName": "American Academy of Dermatology Annual Meeting",
+    "tags": [
+      "derm",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-08-15",
+    "conferenceStart": "2026-03-27",
+    "conferenceEnd": "2026-03-31",
+    "location": "Denver, CO",
+    "url": "https://www.aad.org/member/meetings-education",
     "deadlineUrl": "https://www.aad.org/member/meetings-education/am26/abstracts",
     "requirements": "Max 250 words. Only 1 submission allowed per primary author."
   },
   {
-    "name": "ARVO 2026", "fullName": "Association for Research in Vision and Ophthalmology", "tags": ["vision", "clinical", "cellbio"],
-    "audience": ["clinician", "grad", "undergrad"],
-    "abstractDeadline": "2025-12-05", "conferenceStart": "2026-05-03", "conferenceEnd": "2026-05-07",
-    "location": "Denver, CO", "url": "https://www.arvo.org/",
+    "name": "ARVO 2026",
+    "fullName": "Association for Research in Vision and Ophthalmology",
+    "tags": [
+      "vision",
+      "clinical",
+      "cellbio"
+    ],
+    "audience": [
+      "clinician",
+      "grad",
+      "undergrad"
+    ],
+    "abstractDeadline": "2025-12-05",
+    "conferenceStart": "2026-05-03",
+    "conferenceEnd": "2026-05-07",
+    "location": "Denver, CO",
+    "url": "https://www.arvo.org/",
     "deadlineUrl": "https://www.arvo.org/annual-meeting/abstracts/",
     "requirements": "Max 2,500 characters. First author must be an ARVO member."
   },
   {
-    "name": "ASTMH 2026", "fullName": "American Society of Tropical Medicine and Hygiene", "tags": ["global", "id"],
-    "audience": ["grad", "med", "clinician"],
-    "abstractDeadline": "2026-04-10", "conferenceStart": "2026-10-25", "conferenceEnd": "2026-10-29",
-    "location": "Chicago, IL", "url": "https://www.astmh.org/",
+    "name": "ASTMH 2026",
+    "fullName": "American Society of Tropical Medicine and Hygiene",
+    "tags": [
+      "global",
+      "id"
+    ],
+    "audience": [
+      "grad",
+      "med",
+      "clinician"
+    ],
+    "abstractDeadline": "2026-04-10",
+    "conferenceStart": "2026-10-25",
+    "conferenceEnd": "2026-10-29",
+    "location": "Chicago, IL",
+    "url": "https://www.astmh.org/",
     "deadlineUrl": "https://www.astmh.org/annual-meeting/call-for-abstracts",
     "requirements": "Max 300 words. $55 fee. No tables, figures, or graphs allowed."
   },
   {
-    "name": "WMIC 2026", "fullName": "World Molecular Imaging Congress", "tags": ["imaging", "biomedeng"],
-    "audience": ["grad", "early", "biotech"],
-    "abstractDeadline": "2026-04-25", "conferenceStart": "2026-09-09", "conferenceEnd": "2026-09-12",
-    "location": "TBD", "url": "https://www.wmis.org/",
+    "name": "WMIC 2026",
+    "fullName": "World Molecular Imaging Congress",
+    "tags": [
+      "imaging",
+      "biomedeng"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "biotech"
+    ],
+    "abstractDeadline": "2026-04-25",
+    "conferenceStart": "2026-09-09",
+    "conferenceEnd": "2026-09-12",
+    "location": "TBD",
+    "url": "https://www.wmis.org/",
     "deadlineUrl": "https://www.wmis.org/abstract-submission/",
     "requirements": "Max 400 words. Up to 2 figures allowed in PDF upload."
   },
   {
-    "name": "ASBMR 2026", "fullName": "American Society for Bone and Mineral Research", "tags": ["endo", "cellbio"],
-    "audience": ["grad", "early", "pharma"],
-    "abstractDeadline": "2026-05-08", "conferenceStart": "2026-09-25", "conferenceEnd": "2026-09-28",
-    "location": "Toronto, Canada", "url": "https://www.asbmr.org/",
+    "name": "ASBMR 2026",
+    "fullName": "American Society for Bone and Mineral Research",
+    "tags": [
+      "endo",
+      "cellbio"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "pharma"
+    ],
+    "abstractDeadline": "2026-05-08",
+    "conferenceStart": "2026-09-25",
+    "conferenceEnd": "2026-09-28",
+    "location": "Toronto, Canada",
+    "url": "https://www.asbmr.org/",
     "deadlineUrl": "https://www.asbmr.org/annual-meeting/abstracts",
     "requirements": "Max 2,500 characters. Must use specific font and formatting templates."
   },
   {
-    "name": "TCT 2026", "fullName": "Transcatheter Cardiovascular Therapeutics", "tags": ["cardio", "surgery", "clinical"],
-    "audience": ["clinician", "biotech", "investor"],
-    "abstractDeadline": "2026-06-15", "conferenceStart": "2026-10-24", "conferenceEnd": "2026-10-27",
-    "location": "Washington, DC", "url": "https://tct2026.crfconnect.com/",
+    "name": "TCT 2026",
+    "fullName": "Transcatheter Cardiovascular Therapeutics",
+    "tags": [
+      "cardio",
+      "surgery",
+      "clinical"
+    ],
+    "audience": [
+      "clinician",
+      "biotech",
+      "investor"
+    ],
+    "abstractDeadline": "2026-06-15",
+    "conferenceStart": "2026-10-24",
+    "conferenceEnd": "2026-10-27",
+    "location": "Washington, DC",
+    "url": "https://tct2026.crfconnect.com/",
     "deadlineUrl": "https://tct2026.crfconnect.com/abstracts",
     "requirements": "Max 2,500 characters. Single slide summary required."
   },
   {
-    "name": "AABB 2026", "fullName": "Association for the Advancement of Blood & Biotherapies", "tags": ["hematology", "clinical"],
-    "audience": ["clinician", "nurse", "biotech"],
-    "abstractDeadline": "2026-05-01", "conferenceStart": "2026-10-17", "conferenceEnd": "2026-10-20",
-    "location": "San Diego, CA", "url": "https://www.aabb.org/",
+    "name": "AABB 2026",
+    "fullName": "Association for the Advancement of Blood & Biotherapies",
+    "tags": [
+      "hematology",
+      "clinical"
+    ],
+    "audience": [
+      "clinician",
+      "nurse",
+      "biotech"
+    ],
+    "abstractDeadline": "2026-05-01",
+    "conferenceStart": "2026-10-17",
+    "conferenceEnd": "2026-10-20",
+    "location": "San Diego, CA",
+    "url": "https://www.aabb.org/",
     "deadlineUrl": "https://www.aabb.org/annual-meeting/call-for-abstracts",
     "requirements": "Max 300 words. Tables permitted but count towards word limit."
   },
   {
     "name": "AMP 2026",
     "fullName": "Association for Molecular Pathology Annual Meeting & Expo",
-    "tags": ["genetics", "clinical"],
-    "audience": ["grad", "early", "med", "clinician", "biotech"],
+    "tags": [
+      "genetics",
+      "clinical"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "med",
+      "clinician",
+      "biotech"
+    ],
     "abstractDeadline": "2026-06-30",
     "conferenceStart": "2026-11-10",
     "conferenceEnd": "2026-11-14",
     "location": "Seattle, WA",
     "url": "https://amp26.amp.org/",
     "deadlineUrl": "https://amp26.amp.org/abstract-posters/abstract-submission-information/",
-    "requirements": "Abstract submission deadline June 30, 2026. See AMP abstract submission page for full formatting rules."
+    "requirements": "Abstract submission deadline June 30, 2026. See official AMP abstract submission page for current formatting rules."
   },
   {
     "name": "ASCP/CAP-ACP 2026",
     "fullName": "ASCP/CAP-ACP 2026 Annual Meeting",
-    "tags": ["clinical", "genetics"],
-    "audience": ["grad", "early", "med", "clinician", "biotech"],
+    "tags": [
+      "clinical",
+      "genetics"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "med",
+      "clinician",
+      "biotech"
+    ],
     "abstractDeadline": "2026-04-24",
     "conferenceStart": "2026-11-17",
     "conferenceEnd": "2026-11-20",
@@ -432,8 +1109,16 @@
   {
     "name": "CAP26",
     "fullName": "College of American Pathologists Annual Meeting",
-    "tags": ["clinical", "genetics"],
-    "audience": ["med", "clinician", "grad", "early"],
+    "tags": [
+      "clinical",
+      "genetics"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "grad",
+      "early"
+    ],
     "abstractDeadline": "2026-03-04",
     "conferenceStart": "2026-10-03",
     "conferenceEnd": "2026-10-06",
@@ -445,91 +1130,449 @@
   {
     "name": "USCAP 2026",
     "fullName": "United States and Canadian Academy of Pathology Annual Meeting",
-    "tags": ["clinical", "cellbio"],
-    "audience": ["grad", "early", "med", "clinician"],
-    "abstractDeadline": "2025-09-16",
+    "tags": [
+      "clinical",
+      "cellbio"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "med",
+      "clinician"
+    ],
+    "abstractDeadline": "2025-10-07",
     "conferenceStart": "2026-03-21",
     "conferenceEnd": "2026-03-26",
     "location": "San Antonio, TX",
     "url": "https://uscap.org/uscap-annual-meeting/",
-    "requirements": "Major pathology annual meeting. Check official annual meeting materials for abstract cycle details."
+    "requirements": "Major pathology annual meeting. Check official annual meeting materials for current abstract cycle details."
   },
   {
     "name": "ECP 2026",
     "fullName": "European Congress of Pathology",
-    "tags": ["clinical", "cellbio"],
-    "audience": ["grad", "early", "med", "clinician"],
+    "tags": [
+      "clinical",
+      "cellbio"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "med",
+      "clinician"
+    ],
     "abstractDeadline": "2026-04-08",
     "conferenceStart": "2026-09-12",
     "conferenceEnd": "2026-09-16",
-    "location": "Vienna, Austria",
+    "location": "Stockholm, Sweden",
     "url": "https://www.esp-pathology.org/event/ecp2026/",
     "deadlineUrl": "https://www.esp-pathology.org/event/ecp2026/",
     "requirements": "Abstract and bursary application deadline April 8, 2026."
   },
   {
+    "name": "AANS 2026",
+    "fullName": "American Association of Neurological Surgeons Annual Scientific Meeting",
+    "tags": [
+      "surgery",
+      "neuro",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-10-23",
+    "conferenceStart": "2026-05-01",
+    "conferenceEnd": "2026-05-04",
+    "location": "San Antonio, TX",
+    "url": "https://www.aans.org/annualscientificmeeting/",
+    "deadlineUrl": "https://aans2026.eventscribe.net/",
+    "requirements": "Scientific abstract deadline October 23, 2025. Non-CME plenary proposals closed October 16, 2025."
+  },
+  {
+    "name": "CNS 2026",
+    "fullName": "Congress of Neurological Surgeons Annual Meeting",
+    "tags": [
+      "surgery",
+      "neuro",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-05-18",
+    "conferenceStart": "2026-10-31",
+    "conferenceEnd": "2026-11-04",
+    "location": "Washington, DC",
+    "url": "https://www.cns.org/meetings/cns-annual-meeting",
+    "deadlineUrl": "https://www.cns.org/meetings/cns-annual-meeting/abstract-submissions",
+    "requirements": "300-word max. Up to 5 images allowed. Abstract deadline May 18, 2026."
+  },
+  {
+    "name": "ANESTHESIOLOGY 2026",
+    "fullName": "American Society of Anesthesiologists Annual Meeting",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-03-31",
+    "conferenceStart": "2026-10-16",
+    "conferenceEnd": "2026-10-20",
+    "location": "San Diego, CA",
+    "url": "https://www.asahq.org/annualmeeting",
+    "deadlineUrl": "https://www.asahq.org/annualmeeting/abstracts",
+    "requirements": "Scientific abstracts accepted January 6 through March 31, 2026."
+  },
+  {
+    "name": "AAO 2026",
+    "fullName": "American Academy of Ophthalmology Annual Meeting",
+    "tags": [
+      "vision",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-04-14",
+    "conferenceStart": "2026-10-09",
+    "conferenceEnd": "2026-10-12",
+    "location": "New Orleans, LA",
+    "url": "https://www.aao.org/annual-meeting",
+    "deadlineUrl": "https://www.aao.org/annual-meeting/present/submit-abstracts",
+    "requirements": "Paper and poster abstracts due April 14, 2026 at 11:59 PM Pacific."
+  },
+  {
     "name": "SAEM26",
     "fullName": "Society for Academic Emergency Medicine Annual Meeting",
-    "tags": ["clinical"],
-    "audience": ["undergrad", "med", "grad", "early", "clinician"],
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "undergrad",
+      "med",
+      "grad",
+      "early",
+      "clinician"
+    ],
     "abstractDeadline": "2026-01-05",
     "conferenceStart": "2026-05-18",
     "conferenceEnd": "2026-05-21",
     "location": "Atlanta, GA",
     "url": "https://www.saem.org/meetings-and-events/annual-meeting",
     "deadlineUrl": "https://www.saem.org/meetings-and-events/annual-meeting/annual-meeting-navigation/education/abstracts",
-    "requirements": "Structured abstract required. Character limit 2,050. No tables, figures, or illustrations."
+    "requirements": "Structured abstract required. No illustrations, images, or graphs in the submission."
   },
   {
-    "name": "NAEMSP 2027",
-    "fullName": "National Association of EMS Physicians Annual Meeting",
-    "tags": ["clinical"],
-    "audience": ["med", "clinician", "early"],
-    "abstractDeadline": "2026-08-16",
-    "conferenceStart": "2027-01-11",
-    "conferenceEnd": "2027-01-16",
-    "location": "Austin, TX",
-    "url": "https://naemsp.org/event/2027-naemsp-annual-meeting/",
-    "deadlineUrl": "https://naemsp.org/annual-meeting/call-for-abstracts/",
-    "requirements": "350 word limit. Abstracts due by 11:55 PM ET on August 16, 2026."
+    "name": "ACEP Research Forum 2026",
+    "fullName": "American College of Emergency Physicians Research Forum",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-06-03",
+    "conferenceStart": "2026-10-05",
+    "conferenceEnd": "2026-10-08",
+    "location": "Chicago, IL",
+    "url": "https://www.acep.org/sa/research/research-forum",
+    "deadlineUrl": "https://www.acep.org/sa/research/research-forum",
+    "requirements": "Submissions accepted March 4 through June 3, 2026."
+  },
+  {
+    "name": "SGIM 2026",
+    "fullName": "Society of General Internal Medicine Annual Meeting",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early",
+      "grad"
+    ],
+    "abstractDeadline": "2025-12-12",
+    "conferenceStart": "2026-05-06",
+    "conferenceEnd": "2026-05-09",
+    "location": "Washington, DC",
+    "url": "https://connect.sgim.org/annualmeeting/home",
+    "deadlineUrl": "https://connect.sgim.org/annualmeeting/program/call-for-submissions",
+    "requirements": "Abstracts, clinical vignettes, and innovations all closed December 12, 2025."
+  },
+  {
+    "name": "ACP Internal Medicine 2026",
+    "fullName": "American College of Physicians Internal Medicine Meeting",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early",
+      "grad"
+    ],
+    "abstractDeadline": "2025-11-21",
+    "conferenceStart": "2026-04-16",
+    "conferenceEnd": "2026-04-18",
+    "location": "San Francisco, CA",
+    "url": "https://annualmeeting.acponline.org/",
+    "deadlineUrl": "https://www.acponline.org/meetings-courses/internal-medicine-meeting/competitions-events/abstract-competition",
+    "requirements": "Abstract Competition deadline November 21, 2025 at 11:59 PM Eastern."
+  },
+  {
+    "name": "SCCM Critical Care Congress 2026",
+    "fullName": "Society of Critical Care Medicine Critical Care Congress",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early",
+      "nurse"
+    ],
+    "abstractDeadline": "2025-08-06",
+    "conferenceStart": "2026-03-22",
+    "conferenceEnd": "2026-03-24",
+    "location": "Chicago, IL",
+    "url": "https://www.sccm.org/events/congress",
+    "deadlineUrl": "https://www.sccm.org/congress/abstracts",
+    "requirements": "Abstracts and case reports closed August 6, 2025 at 11:59 PM Central."
+  },
+  {
+    "name": "SHM Converge 2026",
+    "fullName": "Society of Hospital Medicine Annual Conference",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-11-24",
+    "conferenceStart": "2026-03-29",
+    "conferenceEnd": "2026-04-01",
+    "location": "Nashville, TN",
+    "url": "https://converge.hospitalmedicine.org/",
+    "deadlineUrl": "https://shmconverge2026.abstractscorecard.com/",
+    "requirements": "Scientific Abstract Competition deadline November 24, 2025 at 11:59 PM Eastern."
   },
   {
     "name": "ACOG ACSM 2026",
     "fullName": "American College of Obstetricians and Gynecologists Annual Clinical & Scientific Meeting",
-    "tags": ["clinical"],
-    "audience": ["med", "clinician", "early"],
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
     "abstractDeadline": "2025-09-15",
     "conferenceStart": "2026-05-01",
     "conferenceEnd": "2026-05-03",
     "location": "Washington, DC",
     "url": "https://www.acog.org/education-and-events/meetings/acog-annual-clinical-and-scientific-meeting",
     "deadlineUrl": "https://annualmeeting.acog.org/call-for-session-proposals-2026/",
-    "requirements": "Abstract, industry abstract, film, and Stump the Professor submissions were due September 15, 2025 at 5 PM CT."
+    "requirements": "Abstract, industry abstract, film, and Stump the Professor submissions were due September 15, 2025 at 5 PM Central."
+  },
+  {
+    "name": "PAS 2026",
+    "fullName": "Pediatric Academic Societies Meeting",
+    "tags": [
+      "peds",
+      "clinical"
+    ],
+    "audience": [
+      "undergrad",
+      "grad",
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-11-03",
+    "conferenceStart": "2026-04-23",
+    "conferenceEnd": "2026-04-27",
+    "location": "Boston, MA",
+    "url": "https://2026.pas-meeting.org/",
+    "deadlineUrl": "https://2026.pas-meeting.org/submit-an-abstract/",
+    "requirements": "Call for abstracts ran August 15 through November 3, 2025."
   },
   {
     "name": "AAOS 2027",
     "fullName": "American Academy of Orthopaedic Surgeons Annual Meeting",
-    "tags": ["surgery", "clinical"],
-    "audience": ["med", "clinician", "early"],
+    "tags": [
+      "surgery",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
     "abstractDeadline": "2026-06-01",
     "conferenceStart": "2027-03-03",
     "conferenceEnd": "2027-03-06",
     "location": "Las Vegas, NV",
     "url": "https://www.aaos.org/annual/",
     "deadlineUrl": "https://www.aaos.org/annual/explore-the-program/abstracts-applications/",
-    "requirements": "Deadline June 1, 2026 at 5 PM Central. Max 5,250 characters. At least one author must be an orthopaedic surgeon or research scientist."
+    "requirements": "Deadline June 1, 2026 at 5 PM Central. At least one author must be an orthopaedic surgeon or research scientist."
   },
   {
-    "name": "ORS 2027",
-    "fullName": "Orthopaedic Research Society Annual Meeting",
-    "tags": ["surgery", "cellbio", "biomedeng"],
-    "audience": ["undergrad", "grad", "early", "clinician"],
-    "abstractDeadline": "2026-08-31",
-    "conferenceStart": "2027-02-19",
-    "conferenceEnd": "2027-02-23",
-    "location": "San Francisco, CA",
-    "url": "https://www.ors.org/futureannualmeetings/",
-    "deadlineUrl": "https://www.ors.org/futureannualmeetings/",
-    "requirements": "Abstract submission window listed as June 15 through August 31."
+    "name": "Plastic Surgery The Meeting 2026",
+    "fullName": "American Society of Plastic Surgeons The Meeting",
+    "tags": [
+      "surgery",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-04-30",
+    "conferenceStart": "2026-10-15",
+    "conferenceEnd": "2026-10-18",
+    "location": "Houston, TX",
+    "url": "https://www.plasticsurgerythemeeting.com/",
+    "deadlineUrl": "https://submit.plasticsurgery.org/Submit/SubmitLandingPage?eventKey=TM26",
+    "requirements": "Abstracts due April 30, 2026 at 11:59 PM Pacific."
+  },
+  {
+    "name": "VAM26",
+    "fullName": "Society for Vascular Surgery Vascular Annual Meeting",
+    "tags": [
+      "surgery",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2026-01-07",
+    "conferenceStart": "2026-06-10",
+    "conferenceEnd": "2026-06-13",
+    "location": "Boston, MA",
+    "url": "https://vascular.org/vam-2026",
+    "deadlineUrl": "https://vascular.org/vam26-abstracts-videos-and-posters",
+    "requirements": "Main abstracts and videos closed January 7, 2026. Late-breaking abstracts closed February 25, 2026."
+  },
+  {
+    "name": "SSO 2026",
+    "fullName": "Society of Surgical Oncology Annual Meeting",
+    "tags": [
+      "surgery",
+      "cancer",
+      "clinical"
+    ],
+    "audience": [
+      "med",
+      "clinician",
+      "early"
+    ],
+    "abstractDeadline": "2025-10-15",
+    "conferenceStart": "2026-03-05",
+    "conferenceEnd": "2026-03-07",
+    "location": "Phoenix, AZ",
+    "url": "https://www.surgonc.org/meetings-events/sso-2026/",
+    "deadlineUrl": "https://sso2026.eventscribe.net/",
+    "requirements": "Abstracts due October 15, 2025 at 11:59 PM Central. Late-breaking deadline December 1, 2025."
+  },
+  {
+    "name": "ASGCT 2026",
+    "fullName": "American Society of Gene & Cell Therapy Annual Meeting",
+    "tags": [
+      "genetics",
+      "cellbio",
+      "clinical"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "med",
+      "clinician",
+      "biotech"
+    ],
+    "abstractDeadline": "2026-02-03",
+    "conferenceStart": "2026-05-12",
+    "conferenceEnd": "2026-05-16",
+    "location": "Boston, MA",
+    "url": "https://annualmeeting.asgct.org/",
+    "deadlineUrl": "https://annualmeeting.asgct.org/abstracts",
+    "requirements": "Abstract deadline February 3, 2026 at 8 PM Eastern. Late-breaking abstracts accepted February 16 through March 13, 2026."
+  },
+  {
+    "name": "ASM Microbe 2026",
+    "fullName": "American Society for Microbiology Microbe Meeting",
+    "tags": [
+      "id",
+      "cellbio",
+      "global"
+    ],
+    "audience": [
+      "undergrad",
+      "grad",
+      "early",
+      "clinician",
+      "biotech"
+    ],
+    "abstractDeadline": "2026-01-21",
+    "conferenceStart": "2026-06-04",
+    "conferenceEnd": "2026-06-07",
+    "location": "Washington, DC",
+    "url": "https://asm.org/events/asm-microbe/home",
+    "deadlineUrl": "https://asm.org/events/asm-microbe/present",
+    "requirements": "General abstract submission closed January 21, 2026 at 2 PM Eastern. Presenter registration deadline April 1, 2026."
+  },
+  {
+    "name": "PharmSci 360 2026",
+    "fullName": "AAPS PharmSci 360",
+    "tags": [
+      "biomedeng",
+      "clinical"
+    ],
+    "audience": [
+      "grad",
+      "early",
+      "biotech",
+      "pharma"
+    ],
+    "abstractDeadline": "2026-04-29",
+    "conferenceStart": "2026-10-25",
+    "conferenceEnd": "2026-10-28",
+    "location": "New Orleans, LA",
+    "url": "https://www.aaps.org/pharmsci360",
+    "deadlineUrl": "https://www.aaps.org/pharmsci360/education/posters",
+    "requirements": "Early poster submission deadline April 29, 2026. Late-breaking poster deadline July 15, 2026."
+  },
+  {
+    "name": "AAFP FUTURE 2026",
+    "fullName": "American Academy of Family Physicians FUTURE Conference",
+    "tags": [
+      "clinical"
+    ],
+    "audience": [
+      "undergrad",
+      "med"
+    ],
+    "abstractDeadline": "2026-04-01",
+    "conferenceStart": "2026-07-30",
+    "conferenceEnd": "2026-08-01",
+    "location": "Kansas City, MO",
+    "url": "https://www.aafp.org/events/future.html",
+    "deadlineUrl": "https://www.aafp.org/news/education-professional-development/2026future-posters.html",
+    "requirements": "Poster competition deadline April 1, 2026. Student and resident posters accepted."
   }
 ]
