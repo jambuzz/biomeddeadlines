@@ -59,7 +59,7 @@
     "location": "Berlin, Germany",
     "url": "https://www.esmo.org/meetings",
     "requirements": "Background, Methods, Results, Conclusions format. Max 2,000 characters (excluding spaces).",
-    "pageHash": "8d3add3daca8a9b5af9c84cf66a54dcc"
+    "pageHash": "a5e5e5982077241ba033a5d5d7b88569"
   },
   {
     "name": "DDW 2026",
@@ -96,7 +96,7 @@
     "location": "London, UK",
     "url": "https://congress.eular.org/",
     "requirements": "Must not have been previously published. Max 3,600 characters.",
-    "pageHash": "5b30a30b326ee6b0747f2207da9d3700"
+    "pageHash": "8b4ec056c13298d019c2593f0c0eb166"
   },
   {
     "name": "BIO International 2026",
@@ -116,7 +116,7 @@
     "location": "San Diego, CA",
     "url": "https://convention.bio.org/",
     "requirements": "Industry/startup focus. Requires a 500-word executive summary.",
-    "pageHash": "634051dfbc4f9f4a00e2f6096f2b5c5f"
+    "pageHash": "93e7d7a32123fbaf4af6205cabbcdb37"
   },
   {
     "name": "AUA 2026",
@@ -214,7 +214,7 @@
     "location": "Chicago, IL",
     "url": "https://professional.heart.org/en/meetings",
     "requirements": "Max 1,950 characters (spaces do not count). 1 image allowed.",
-    "pageHash": "2b1702a76429604d38779526ca37d3d1"
+    "pageHash": "3c4b951e903926889425d7d08d0c0255"
   },
   {
     "name": "ACC.26",
@@ -233,7 +233,7 @@
     "location": "San Diego, CA",
     "url": "https://accscientificsession.acc.org/",
     "requirements": "Abstracts must be structured (Background, Methods, Results, Conclusion).",
-    "pageHash": "a9c5ed24c14d17c47b24b28a12481978"
+    "pageHash": "850cd81079287a7c312d7f9329f69b09"
   },
   {
     "name": "ESC Congress 2026",
@@ -291,7 +291,7 @@
     "location": "Atlanta, GA",
     "url": "https://idweek.org/",
     "requirements": "Max 1,950 characters. References are not included in the limit.",
-    "pageHash": "19389f14c0ac157dac9a0bc7fdf8e5bd"
+    "pageHash": "ce17bd759019a85d136d5662a49ba789"
   },
   {
     "name": "ECCMID 2026 (ESCMID Global)",
@@ -330,7 +330,7 @@
     "location": "Denver, CO",
     "url": "https://www.croiconference.org/",
     "requirements": "Max 2,500 characters. No tables or figures allowed in initial abstract submission.",
-    "pageHash": "b9088ba3c3a40e016ff3d53fe07704b8"
+    "pageHash": "32d845bf737df52a3c943c1f9a95d6ac"
   },
   {
     "name": "ENDO 2026",
@@ -390,7 +390,7 @@
     "location": "Vienna, Austria",
     "url": "https://www.easd.org/",
     "requirements": "Max 3,200 characters including spaces. One table or figure permitted.",
-    "pageHash": "fb2e9bfc23e6c0b526c95ae65cd52826"
+    "pageHash": "4a055e086f3f9dac280be274cf1ce4dc"
   },
   {
     "name": "ATS 2026",
@@ -450,7 +450,7 @@
     "location": "Washington, DC",
     "url": "https://rheumatology.org/annual-meeting",
     "requirements": "Max 2,750 characters (excluding spaces). 2 graphics allowed.",
-    "pageHash": "b40ccebcfe9612ac45ee2a64593c2995"
+    "pageHash": "cc1447901b6e9b0b88e622dc17efd9f7"
   },
   {
     "name": "ASN Kidney Week 2026",
@@ -469,7 +469,7 @@
     "location": "Los Angeles, CA",
     "url": "https://www.asn-online.org/education/kidneyweek/",
     "requirements": "Max 2,500 characters. Sponsoring member required if first author is not a member.",
-    "pageHash": "494e6ab2714cb77bde01af712cd72940"
+    "pageHash": "3acc4bcb84d90e7fb082aab971d5eb39"
   },
   {
     "name": "AAI IMMUNOLOGY 2026",
@@ -527,7 +527,7 @@
     "location": "Los Angeles, CA",
     "url": "https://www.ashg.org/meetings/",
     "requirements": "Max 2,500 characters. $50 submission fee. No tables/figures allowed.",
-    "pageHash": "c88fa739cff25bb484c86dc52279aefc"
+    "pageHash": "feb243f9957ac5098dbfd321bcbf8dd4"
   },
   {
     "name": "ASCB | EMBO 2026",
@@ -546,7 +546,7 @@
     "location": "San Diego, CA",
     "url": "https://www.ascb.org/meetings-events/",
     "requirements": "Max 3,000 characters. No tables or figures in abstract text.",
-    "pageHash": "95a8de0b6348c59900ab518f8d3b3418"
+    "pageHash": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "name": "BPS 2026",
@@ -565,7 +565,7 @@
     "location": "Los Angeles, CA",
     "url": "https://www.biophysics.org/meetings-events/annual-meeting",
     "requirements": "Max 3,000 characters (including spaces). First author must present.",
-    "pageHash": "4264df18511acad1da606ac12b4f8c93"
+    "pageHash": "27d166a0d102215a9f7c04a01f107668"
   },
   {
     "name": "BMES 2026",
@@ -644,7 +644,7 @@
     "location": "San Jose, CA",
     "url": "https://www.synbiobeta.com/",
     "requirements": "Poster pitches available. Focus should be on translational synbio/biotech.",
-    "pageHash": "ec365d4747177bd019b16971bcb2d699"
+    "pageHash": "1a9784b7c27d3bdbd748f68f90dc3167"
   },
   {
     "name": "ASTRO 2026",
@@ -703,7 +703,7 @@
     "location": "Vienna, Austria",
     "url": "https://www.myesr.org/congress",
     "requirements": "Max 250 words. Separate tracks for scientific papers and educational exhibits.",
-    "pageHash": "a9f7afae8f16c73226363efda5221cc7"
+    "pageHash": "6da6665635e4b06eef981fdbf02a228b"
   },
   {
     "name": "ISMRM 2026",
@@ -742,7 +742,7 @@
     "location": "Washington, DC",
     "url": "https://am.snmmi.org/",
     "requirements": "Max 2,000 characters. Up to 2 figures/images permitted.",
-    "pageHash": "a7ce0f57a3d7d3893953a21055f819ab"
+    "pageHash": "9b84322fd3605038411d4d05a12df6b9"
   },
   {
     "name": "AASLD 2026",
@@ -761,7 +761,7 @@
     "location": "San Francisco, CA",
     "url": "https://www.aasld.org/the-liver-meeting",
     "requirements": "Max 2,500 characters. Submission fee $70.",
-    "pageHash": "6396ef5dafc8085b6e543789a9d0a741"
+    "pageHash": "66ce050d3952a7ca9f5abaa402aa5c58"
   },
   {
     "name": "EASL 2026",
@@ -800,7 +800,7 @@
     "location": "Montreal, Canada",
     "url": "https://www.iscb.org/",
     "requirements": "Focuses on computational biology. Proceeding and poster tracks available.",
-    "pageHash": "97b961f396e03b4dbb12820de9dddcd9"
+    "pageHash": "ae2f57e183d8ec5a639b1eea3a0c40b4"
   },
   {
     "name": "ACMG 2026",
@@ -820,7 +820,7 @@
     "location": "Las Vegas, NV",
     "url": "https://www.acmg.net/",
     "requirements": "Max 300 words. No charts, tables, or graphs allowed.",
-    "pageHash": "ef2c8f8d8a735797403fbc2a25073d22"
+    "pageHash": "4a41a8e072b8e348d22eae92d5b0c26e"
   },
   {
     "name": "AAP 2026",
@@ -897,7 +897,7 @@
     "location": "Las Vegas, NV",
     "url": "https://www.himss.org/global-conference",
     "requirements": "Proposals must demonstrate applied tech solutions, not conceptual ideas.",
-    "pageHash": "9b29154f6d820a072191259ba7459c60"
+    "pageHash": "856ef17f9598e5e84c30570608eeb966"
   },
   {
     "name": "ONS Congress 2026",
@@ -915,7 +915,7 @@
     "location": "Orlando, FL",
     "url": "https://www.ons.org/congress",
     "requirements": "Max 300 words. Non-research/evidence-based practice tracks available.",
-    "pageHash": "a58ea566f2d1cae4eaeadeb4a73fa656"
+    "pageHash": "606f869060b93c1909db013c6420525c"
   },
   {
     "name": "AST 2026",
@@ -934,7 +934,7 @@
     "location": "San Diego, CA",
     "url": "https://www.myast.org/",
     "requirements": "Max 2,500 characters. ATC joint meeting guidelines apply.",
-    "pageHash": "b84e81d0d77765f2ad0da97ce3eb6c11"
+    "pageHash": "24170abf672dd0d25013b6dbe485f8aa"
   },
   {
     "name": "APA 2026",
@@ -955,7 +955,7 @@
     "url": "https://www.psychiatry.org/",
     "deadlineUrl": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/abstract-submissions",
     "requirements": "Max 300 words. Must use standardized APA template.",
-    "pageHash": "fe50deaa671f9b962401c36ede13940c"
+    "pageHash": "35d4471c65ec85eb8b831bb653deec1b"
   },
   {
     "name": "AAD 2026",
@@ -1018,7 +1018,7 @@
     "url": "https://www.astmh.org/",
     "deadlineUrl": "https://www.astmh.org/annual-meeting/call-for-abstracts",
     "requirements": "Max 300 words. $55 fee. No tables, figures, or graphs allowed.",
-    "pageHash": "5628935692ba7711872b246c6b5d564c"
+    "pageHash": "afda17e132b7fe4cb4ed00a0d491eca3"
   },
   {
     "name": "WMIC 2026",
@@ -1124,7 +1124,7 @@
     "url": "https://amp26.amp.org/",
     "deadlineUrl": "https://amp26.amp.org/abstract-posters/abstract-submission-information/",
     "requirements": "Abstract submission deadline June 30, 2026. See official AMP abstract submission page for current formatting rules.",
-    "pageHash": "01e3c9b0df5cdf0a00cfe3e9fc0c26fd"
+    "pageHash": "2d878064ac01dca902d56cd4dadfa6d8"
   },
   {
     "name": "ASCP/CAP-ACP 2026",
@@ -1169,7 +1169,7 @@
     "url": "https://www.cap.org/calendar/events/cap26",
     "deadlineUrl": "https://events.cap.org/event/CAP26/abstract-program",
     "requirements": "Abstract submission opened January 7, 2026 and closed March 4, 2026.",
-    "pageHash": "bf2e877e08963e15f48d0ff735310627"
+    "pageHash": "4159bca636a0b4741c5000f97d99db11"
   },
   {
     "name": "USCAP 2026",
@@ -1190,7 +1190,7 @@
     "location": "San Antonio, TX",
     "url": "https://uscap.org/uscap-annual-meeting/",
     "requirements": "Major pathology annual meeting. Check official annual meeting materials for current abstract cycle details.",
-    "pageHash": "6912d2a80a27ffbdecbe2440ddc11c75"
+    "pageHash": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "name": "ECP 2026",
@@ -1212,7 +1212,7 @@
     "url": "https://www.esp-pathology.org/event/ecp2026/",
     "deadlineUrl": "https://www.esp-pathology.org/event/ecp2026/",
     "requirements": "Abstract and bursary application deadline April 8, 2026.",
-    "pageHash": "269e09d60a4e3df14821b8b05d6c98a1"
+    "pageHash": "14d6e270b009aba05145535d64c425cb"
   },
   {
     "name": "AANS 2026",
@@ -1274,7 +1274,7 @@
     "url": "https://www.asahq.org/annualmeeting",
     "deadlineUrl": "https://www.asahq.org/annualmeeting/abstracts",
     "requirements": "Scientific abstracts accepted January 6 through March 31, 2026.",
-    "pageHash": "628216076a66637f4b070e72b410c372"
+    "pageHash": "0a2f1ef356559f5addb3f99c8035a1ee"
   },
   {
     "name": "AAO 2026",
@@ -1357,7 +1357,7 @@
     "url": "https://connect.sgim.org/annualmeeting/home",
     "deadlineUrl": "https://connect.sgim.org/annualmeeting/program/call-for-submissions",
     "requirements": "Abstracts, clinical vignettes, and innovations all closed December 12, 2025.",
-    "pageHash": "4ed9334524c4cd968bc3da388fcc14f2"
+    "pageHash": "440bdc2cf4480e639ef6fe7ee6889e66"
   },
   {
     "name": "ACP Internal Medicine 2026",
@@ -1378,7 +1378,7 @@
     "url": "https://annualmeeting.acponline.org/",
     "deadlineUrl": "https://www.acponline.org/meetings-courses/internal-medicine-meeting/competitions-events/abstract-competition",
     "requirements": "Abstract Competition deadline November 21, 2025 at 11:59 PM Eastern.",
-    "pageHash": "8735fa1d0bc792a8a179e852191ba6ba"
+    "pageHash": "140ec39a86ffb8d1c4e31c3b1fd499f6"
   },
   {
     "name": "SCCM Critical Care Congress 2026",
@@ -1437,7 +1437,7 @@
     "url": "https://www.acog.org/education-and-events/meetings/acog-annual-clinical-and-scientific-meeting",
     "deadlineUrl": "https://annualmeeting.acog.org/call-for-session-proposals-2026/",
     "requirements": "Abstract, industry abstract, film, and Stump the Professor submissions were due September 15, 2025 at 5 PM Central.",
-    "pageHash": "8448d5cf5bbcf6dde958e42d3abf5078"
+    "pageHash": "ac4cb2ec7c7b6b4e25cd7d02a83ed07d"
   },
   {
     "name": "PAS 2026",
@@ -1502,7 +1502,7 @@
     "url": "https://www.plasticsurgerythemeeting.com/",
     "deadlineUrl": "https://submit.plasticsurgery.org/Submit/SubmitLandingPage?eventKey=TM26",
     "requirements": "Abstracts due April 30, 2026 at 11:59 PM Pacific.",
-    "pageHash": "fe93fd5dbfd329a9827efbafa368710a"
+    "pageHash": "d2d35121e38492d87a77ea20675b073d"
   },
   {
     "name": "VAM26",
@@ -1568,7 +1568,7 @@
     "url": "https://annualmeeting.asgct.org/",
     "deadlineUrl": "https://annualmeeting.asgct.org/abstracts",
     "requirements": "Abstract deadline February 3, 2026 at 8 PM Eastern. Late-breaking abstracts accepted February 16 through March 13, 2026.",
-    "pageHash": "240a7d25d6ac62aaef13f3530a486e44"
+    "pageHash": "5bc19632c9d110fbfeec5bc5f2916294"
   },
   {
     "name": "ASM Microbe 2026",
@@ -1592,7 +1592,7 @@
     "url": "https://asm.org/events/asm-microbe/home",
     "deadlineUrl": "https://asm.org/events/asm-microbe/present",
     "requirements": "General abstract submission closed January 21, 2026 at 2 PM Eastern. Presenter registration deadline April 1, 2026.",
-    "pageHash": "86e140b9ca960d3de3224396ffa343ef"
+    "pageHash": "76bf3e2d572926312779e85a6b76e017"
   },
   {
     "name": "PharmSci 360 2026",
@@ -1633,7 +1633,7 @@
     "url": "https://www.aafp.org/events/future.html",
     "deadlineUrl": "https://www.aafp.org/news/education-professional-development/2026future-posters.html",
     "requirements": "Poster competition deadline April 1, 2026. Student and resident posters accepted.",
-    "pageHash": "458d015a1d86b27ecbb24307ab2920d6"
+    "pageHash": "682d40f4a6ecb9617735f08f38f63b03"
   },
   {
     "name": "AAPM 2026",
@@ -1744,7 +1744,7 @@
     "location": "TBD",
     "url": "https://www.surgonc.org/",
     "requirements": "Max 300 words. Case reports not accepted. Clinical and translational tracks available.",
-    "pageHash": "213fc36ddac9cdbf3ee09bdcd32fa667"
+    "pageHash": "a610606481f5337a15ef5ac08e911b92"
   },
   {
     "name": "ABRCMS 2026",
@@ -1894,7 +1894,7 @@
     "url": "https://www.grc.org/find-a-conference/?title=cancer",
     "requirements": "Application-based, not standard abstract submission. Highly selective and prestigious. Poster presentations for grad students and postdocs.",
     "notes": "Multiple cancer-related GRCs run throughout summer. Each has its own deadline. Check the website for the specific track (e.g., Radiation, Tumor Immunology, Metastasis).",
-    "pageHash": "4e1a712cde4260f8c4004849ef6f3cf7"
+    "pageHash": "2ab0533da682954fd3285a7ae5f07532"
   },
   {
     "name": "Keystone Symposia 2026",
